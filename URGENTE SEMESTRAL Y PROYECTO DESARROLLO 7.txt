@@ -1,0 +1,51 @@
+1.crear una base de datos 
+
+la empresa tiene un lugar de control de materiales                   ENFOCADA EN EL MEDUCA
+
+solicitud de materiales de una empresa en entrada y tambien en salida
+
+ponerle el nombre que uno mas le guste segun la empresa enfocada en el meduca, 
+
+en esta based de datos debe de haber tabla de productos, categorias, departamentos, solicitud, login, reportes.
+en donde los productos van a estar asignados 
+
+*departamentos
+administracion, contabilidad, practico
+
+
+*categorias
+utiles de oficina, construccion, etcs
+
+*solicitud de materiales dentro de la empresa
+fecha, quien lo solicita, que departamento, cuando se le va a entregar.
+
+*productos
+id, nombre, id categoria, id de departamento, punto de re-orden
+
+*login(3 USUARIOS)
+usuario, administradores, superusuario, contraseña
+
+*reportes(3-4 reportes) 
+
+
+llaves foraneas, llaves primarias.
+
+-la base de dato debe cumplir con la normalizacion(3)
+-esquema de la estructura de la base de datos (diagrama entidad-relacion)
+-objetivo
+-explicacion de su uso y funcionamiento
+-screeenshots de la pantalla
+- codigo fuente
+-anexos
+
+la fecha limite es el ultimo dia de clases(24 noviembre) 
+
+EN TODAS LAS TABLAS DEBE PODER HACERSE EL CRUD
+
+ULTIMO DIA(en hosting)
+CRUD de categoria
+CRUD de productos
+Login
+
+proyecto final (semestral)
+completo en hosting
